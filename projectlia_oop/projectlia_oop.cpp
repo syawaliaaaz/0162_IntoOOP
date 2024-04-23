@@ -22,6 +22,10 @@ private:
 	string kodeMk;
 	string namaMK;
 	int sks;
+public :
+	void input() {
+
+	}
 
 
 
