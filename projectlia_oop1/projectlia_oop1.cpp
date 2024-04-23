@@ -36,5 +36,6 @@ int main() {
 	pp.input();
 	pp.display();
 
+	return 0;
 }
 
