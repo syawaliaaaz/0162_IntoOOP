@@ -31,3 +31,7 @@ public:
 	}
 };
 
+int main() {
+
+}
+
