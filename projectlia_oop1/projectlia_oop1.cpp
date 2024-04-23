@@ -11,5 +11,9 @@ private:
 public:
 	float luas;
 
+	void input() { //metode input persegi panjang
+
+	}
+
 };
 
