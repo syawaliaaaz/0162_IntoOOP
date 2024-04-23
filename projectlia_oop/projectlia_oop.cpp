@@ -33,6 +33,10 @@ public :
 
 	}
 
+	void output() {
+
+	}
+
 
 
 };
