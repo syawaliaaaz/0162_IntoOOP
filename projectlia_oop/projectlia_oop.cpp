@@ -9,6 +9,10 @@ public: // akses modifier
 	int umur;
 	string jurusan;
 
+	void output() {
+
+	}
+
 
 
 };
