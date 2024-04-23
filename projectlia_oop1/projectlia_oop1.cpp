@@ -19,5 +19,9 @@ public:
 		cin >> lebar;
 	   }
 
+	float hitungLuas() {
+		return panjang * lebar;
+	}
+
 };
 
