@@ -10,6 +10,9 @@ public: // akses modifier
 	string jurusan;
 
 	void output() {
+		cout << "Nama: " << nama << endl;
+		cout << "Umur: " << nama << endl;
+		cout << "Jurusan: " << jurusan << endl;
 
 	}
 
