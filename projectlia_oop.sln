@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projectlia_oop", "projectlia_oop\projectlia_oop.vcxproj", "{3B9846CF-DE8C-4BA6-AAEE-6334C46BC7EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projectlia_oop1", "projectlia_oop1\projectlia_oop1.vcxproj", "{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3B9846CF-DE8C-4BA6-AAEE-6334C46BC7EE}.Release|x64.Build.0 = Release|x64
 		{3B9846CF-DE8C-4BA6-AAEE-6334C46BC7EE}.Release|x86.ActiveCfg = Release|Win32
 		{3B9846CF-DE8C-4BA6-AAEE-6334C46BC7EE}.Release|x86.Build.0 = Release|Win32
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Debug|x64.ActiveCfg = Debug|x64
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Debug|x64.Build.0 = Debug|x64
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Debug|x86.Build.0 = Debug|Win32
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Release|x64.ActiveCfg = Release|x64
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Release|x64.Build.0 = Release|x64
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Release|x86.ActiveCfg = Release|Win32
+		{3DBA19E7-613F-4FAA-92E9-3A7DA01982DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
